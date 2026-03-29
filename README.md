@@ -1,13 +1,14 @@
 Hi, I'm Ieva 👋
 
 💻 Software Test Engineer  
-📍 Based in Zurich  
- Currently learning German  
+📍 Based in Zürich     
 
 ## About me
+- Software Testing graduate from TECHIN, Vilnius Technology and Engineering Center
 - Working with automated + manual testing
 - Interested in health tech & wearables
-- Love travel (Naples, Barcelona ✈️)
+🇩🇪 Currently learning German  
+
 
 ## Tech
 - Python
@@ -15,4 +16,4 @@ Hi, I'm Ieva 👋
 - Git
 
 ## Contact
-- LinkedIn: ...
+- LinkedIn: linkedin.com/in/ievajonusyte
